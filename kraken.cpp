@@ -17,6 +17,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
 #include "stdafx.h"
+#include "ooz.h"
 
 // Header in front of each 256k block
 typedef struct KrakenHeader {
